@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "SQLProject",
+            "connectString": "postgres://tuxcfopz:mKNeVpnTXBjxgmSQWkWBHdS7o56-cYTY@peanut.db.elephantsql.com/tuxcfopz"
+        }
+    ]
+}
